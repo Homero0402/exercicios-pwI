@@ -1,0 +1,12 @@
+
+a {
+    color: hotpink;
+}
+
+a:visited {
+    color: aqua;
+}
+
+a:hover {
+    color: blueviolet;
+}
