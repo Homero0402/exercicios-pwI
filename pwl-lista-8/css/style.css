@@ -50,6 +50,9 @@
     font-size: var(--font-size-base);
 }
 
+.tudo{
+    display: grid; place-items: center;
+}
 .login {
     color: var(--color-text);
     display: flex;
